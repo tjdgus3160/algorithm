@@ -1,4 +1,5 @@
 # bisect 살짝 더 빠름
+
 import bisect
 def solution(arr):
     answer = []
